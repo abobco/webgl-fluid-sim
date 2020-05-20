@@ -1,0 +1,15 @@
+{
+    "particle_radius": 5,
+    "interaction_radius":10,
+
+    "gravity": 0.05,
+
+    "stiffness": 0.006,
+    "near_stiffness": 0.625,
+    "rest_density": 6.4,
+
+    "sigma": 0.3,
+    "beta": 0.9,
+
+    "particle_limit":1024
+}
